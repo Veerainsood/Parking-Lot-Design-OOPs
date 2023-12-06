@@ -1,1 +1,3 @@
-# Parking-Lot-Design-OOPs
+## Parking-Lot-Design-OOPs
+I have made a doc file for the documentation.
+This was a collaborative effort put in by me and my friends...
