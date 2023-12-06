@@ -1,0 +1,3 @@
+TO run the programm open Vs code here !!
+dont go into the FinalParkingLot folder as it  is a package containing classes
+run the final_parkinglot.java file here in this folder..
